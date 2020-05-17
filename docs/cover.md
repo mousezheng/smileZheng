@@ -1,3 +1,4 @@
+![logo](https://github.githubassets.com/images/icons/emoji/de.png)
 
 # smallZheng <small>1.0</small>
 
@@ -7,4 +8,4 @@
 - 爱讲笑话 
 
 [GitHub](https://github.com/mousezheng/smileZheng)
-[Get Started](#Headline)
+[Get Started](#BB)

@@ -1,4 +1,4 @@
-![logo](https://github.githubassets.com/images/icons/emoji/de.png)
+![logo](img/logo.svg)
 
 # smallZheng <small>1.0</small>
 

@@ -6,6 +6,7 @@
 
 - 英俊邋遢
 - 爱讲笑话 
+- (。-ω-)zzz
 
 [GitHub](https://github.com/mousezheng/smileZheng)
 [Get Started](#BB)
